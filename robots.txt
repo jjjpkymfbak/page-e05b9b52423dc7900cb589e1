@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://p-c1592e4d51.wecareschool.cn/sitemap.xml
